@@ -1,4 +1,4 @@
-### Globurst-Sales-Analysis
+# Globurst-Sales-Analysis
 
 ## Overview
 
@@ -38,36 +38,36 @@ Relationships were detected automatically among the three tables, using star sch
 ## Analysis And virtualization
 The following are the insights;
 
-# Revenue Generated from sales
+### Revenue Generated from sales
 
 the revenue generated from sales was above #118000.00k
 
-#  The Profit
+###  The Profit
 The Profit at the period was #115000.27k
 
-# The profit Margin
+### The profit Margin
 The proft margin was 18.65%
 
-#  Quantity Sold 
+###  Quantity Sold 
 The total quantity sold was 4280 units
 
-# Top 15 revenue generating Products
+### Top 15 revenue generating Products
 The top product is Sonny Bravia Full HD 1080 followed by Samsung Smartwatch and Toshiba 43" televison made the top three why the last three rvenue generating products are; Mackerel, Halibut and Bat Music 5800. The full top 15 products  are shoen below.
 
-# Top used sales channel
+### Top used sales channel
 More sales and revenue were made from direct sales which account to about 50.9% of the total sales, followed by online sales which account to 34.4% and lastly sales made by wholesalers account to 14.7% of the total revenue.
 
-# Top Payment method
+### Top Payment method
 over half of the sales was recieved by cash(#414000.37k), which is probably due to high  direct sales and a whopping amount of #393000.79k was made from online sales.
 
-# The Monthly Sales Trend
+### The Monthly Sales Trend
 The sales trend shows that most sales are on January, then July and June repectively.
 
-# Top Sales By Category
+### Top Sales By Category
 The highest revenue was made from electronic related appliances, gloceries and Home office.
 respectively.
 
-# Sales By Quarters 3142
+### Sales By Quarters 3142
 Most sales was made in the 3rd quarter, 1st quarter, 4thquarter and 2nd quarter repectively.
 
 ## Conclusion, Recomenations and Predictions.
